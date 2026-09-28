@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "emp-directory",
+=======
+  "name": "personal-portfolio",
+>>>>>>> a1a385be499bfc123a0eceff8ba01198424175bc
   "private": true,
   "version": "0.0.0",
   "type": "module",
